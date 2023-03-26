@@ -67,6 +67,12 @@ node server.js
 
 Use Insomnia Core or Postman to test the routes. You can download Insomnia Core [here](https://insomnia.rest/download/) or Postman [here](https://www.postman.com/downloads/).
 
+
+
+https://user-images.githubusercontent.com/118869836/227800811-583f6abd-b145-4065-8496-838235b36fcc.mp4
+
+Walthrough video can be found [here](https://drive.google.com/file/d/1nGc2fybwoZOtVMJrn9M-Cdsp6kT4cEd4/view?usp=share_link).
+
 Test the following routes:
 
 - Categories
